@@ -6,6 +6,21 @@ __pycache__/
 # C extensions
 *.so
 
+.DS_Store
+*.csv
+*.json
+*.pdf
+*.png
+*.jpeg
+*.jpg
+*.tiff
+*.svg
+*.eps
+*.ai
+auth.json
+auth.txt
+
+
 # Distribution / packaging
 .Python
 build/
