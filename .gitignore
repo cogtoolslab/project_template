@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+*.lof
+*.lot
+*.out
+.DS_Store
+.Rhistory
+*.fdb_latexmk
+*.bbl
+*.aux
+*.blg
+*.fls
+*.log
+*.synctex.gz
+*.pdf
+
 .DS_Store
 *.csv
 *.json
