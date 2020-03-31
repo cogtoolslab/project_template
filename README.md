@@ -36,6 +36,8 @@ auth.txt
 
 Here are some basic GitHub hygiene practices we encourage:
 
+0. When you sit down to start working, it is good practice to run `git pull` to pull in any changes that have been made to the repo since you last finished working. This will help to reduce the chance of nasty merge conflicts by making sure that you've synchronized your clone with the remote repo before starting to make new changes. 
+
 1. It is generally better to make several small commits than one large, complex commit. In many cases, this means running `git add` on just a single file at a time! This allows you to leave more informative commit messages for your collaborators (including your future self).
 
 2. Before you push, use `git diff` to inspect changes before committing to make sure they are what were intended. To get out of the git diff view, press `q`.
