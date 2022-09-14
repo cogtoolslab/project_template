@@ -10,7 +10,7 @@ Here are some guidelines:
 * If there is a researcher on the team who is unable to directly edit this Markdown file for any reason, please ask this individual to email their contribution to another member of the team who can. 
 * Every researcher should have their contributions explicitly documented here before final authorship decisions are made. 
 
-## FIRSTNAME LAST NAME
+## FIRSTNAME LASTNAME
 
 These are some example contributions (by no means meant to be exhaustive):
 * Wrote first draft of the study pre-registration
