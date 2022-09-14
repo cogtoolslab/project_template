@@ -4,6 +4,7 @@ This is an example of how a cogtoolslab project repo should be organized.
 
 It contains several subdirectories that will contain standard elements of almost every project:
 
+- `admin`: This directory will contain administrative data not already stored in the external running project log (often a google doc). Please check out the `author_contributions.md` towards the beginning of a project.
 - `analysis` (aka `notebooks`): This directory will typically contain jupyter/Rmd notebooks for exploratory code development and data analysis.
 - `experiments`: If this is a project that will involve collecting human behavioral data, this is where you want to put your experimental code. If this is a project that will involve evaluation of a computational model's behavior on a task, this is also where you want to put the task code.
 - `model`: If this is a cognitive modeling project, this is where you want to put your model definitions. If this project involves training neural networks, you might consider starting out putting training scripts in here, but then splitting these off into a separate `training` dir. 
@@ -15,11 +16,11 @@ It contains several subdirectories that will contain standard elements of almost
 
 ### Note about other project documentation 
 
-#### Starter Google Doc
+#### Project Log
 
-When we spin up a new project, the first thing we'll often do to collect our thoughts is create a Google Doc. This is b/c this file format is easy to share and flexible in format. This google doc is also where you should take notes during our meetings, and collect high-level TODO items, especially those that are not immediately actionable in code. For code development TODO's, we will often instead use GitHub Issues.
+When we spin up a new project, the first thing we'll often do to collect our thoughts is create a Google Doc to function as a running "log" of project updates and meeting notes. This is b/c this file format is easy to share and flexible in format. This google doc is also where you should take notes during our meetings, and collect high-level TODO items, especially those that are not immediately actionable in code. For code development TODO's, we will often instead use GitHub Issues.
 
-#### Open Science Framework for pre-registration of behavioral experiments
+#### Study Plans
 
 Once we are in the later stages of desigining a new human behavioral experiment and preparing to run our first pilot, we will write up a pre-registration and either put it under version control within the project repo OR post it to the [Open Science Framework](https://osf.io/). We subscribe to the philosophy that ["pre-registrations are a plan, not a prison."](https://www.cos.io/blog/preregistration-plan-not-prison) They help us transparently document our thinking and decision-making process both for ourselves and for others, and will help us distinguish between confirmatory and exploratory findings. We do not believe that there is a single best way to write a pre-registration, but in many cases a more detailed plan will help us to clarify our experimental logic and set up our analyses accordingly (i.e., what each hypothesis predicts, which measures and analyses we will use to evaluate each relevant hypothesis). 
 
