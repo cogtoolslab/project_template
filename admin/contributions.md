@@ -12,10 +12,34 @@ Here are some guidelines:
 
 ## FIRSTNAME LASTNAME
 
-These are some example contributions (by no means meant to be exhaustive):
+These are some example contributions (by no means meant to be exhaustive). 
 * Wrote first draft of the study pre-registration
 * Coded up first version of the behavioral task
 * Contributed to analyses on first and second experiments
-* Gave comments on conference abstract submitted to VSS
+* Contributed comments on conference abstract submitted to conference (VSS 2025)
 * Created task display and stimulus gallery figure
 * Contributed slides to talk given by other member of the team
+* Provided funding support
+* Project administration
+* Involved in initial conceptualization of project
+* Contributed comments to draft of manuscript
+
+These example contributions are adapted from CRediT (Contributor Roles Taxonomy). CRediT is a "high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output" (see website for more details: https://casrai.org/credit/).
+
+* Conceptualization: Ideas; formulation or evolution of overarching research goals and aims.
+* Data curation: Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use.
+* Formal analysis: Application of statistical, mathematical, computational, or other formal techniques to analyze or synthesize study data.
+* Funding acquisition: Acquisition of the financial support for the project leading to this publication.
+* Investigation: Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection.
+* Methodology: Development or design of methodology; creation of models.
+* Project administration – Management and coordination responsibility for the research activity planning and execution.
+* Resources: Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools.
+* Software: Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.
+* Supervision: Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team.
+* Validation: Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs.
+* Visualization: Preparation, creation and/or presentation of the published work, specifically visualization/data presentation.
+* Writing – original draft: Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation).
+* Writing – review & editing: Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages.
+
+-----
+**PLEASE REMOVE THIS LINE AND EDIT BELOW**
