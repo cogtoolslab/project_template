@@ -1,6 +1,6 @@
 # Contributions Log
 
-The purpose of this document is to give all researchers involved in a project the opportunity to describe their contributions to a project, so that the researcher team can make sound decisions about authorship when preparing a project for publication. 
+The purpose of this document is to give all researchers involved in a project the opportunity to describe their contributions to a project. Some contributions to a project are publicly visible and memorable; others are less visible, but equally important. Documenting contributions will make it easier to maintain a high level of transparency about the contributions of all team members, with the goal of helping the researcher team to make sound decisions about authorship when preparing a project for publication.
 
 Here are some guidelines:
 * Each researcher should create a new section for themselves and use their name as the section header. In that section, please structure your contributions as a bullet-point list. 
