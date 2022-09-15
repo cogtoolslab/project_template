@@ -1,4 +1,4 @@
-# Author contributions
+# Contributions Log
 
 The purpose of this document is to give all researchers involved in a project the opportunity to describe their contributions to a project, so that the researcher team can make sound decisions about authorship when preparing a project for publication. 
 
