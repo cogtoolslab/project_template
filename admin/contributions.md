@@ -7,7 +7,7 @@ Here are some guidelines:
 * Please be concrete and aim to describe your contributions at a moderate level of abstraction -- neither too granular nor too general. 
 * Each researcher should mention these contributions only *after* they have made them, rather than prior to making them (e.g., as a commitment device). 
 * Each researcher should feel free to update this document throughout the project lifecycle, rather than only at the beginning or end.
-* If there is a researcher on the team who is unable to directly edit this Markdown file for any reason, please ask this individual to email their contribution to another member of the team who can. 
+* If there is a researcher on the team who is unable to directly edit this Markdown file, please ask this individual to either send their contributions to another member of the team who can OR explicitly approve of a set of contributions prepared by another team member. 
 * Every researcher should have their contributions explicitly documented here before final authorship decisions are made. 
 
 ## FIRSTNAME LASTNAME
