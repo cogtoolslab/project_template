@@ -59,7 +59,7 @@ Here is how we will recruit human participants.
 
  
 ###   Sampling procedure 
-The target sample size will be XX.
+The target sample size will be XX and here are the reasons why that choice makes sense.
 <!-- indicate your target sample size and why that is your target (might be based in past research, for example) -->
 <!-- ###   Stopping rule -->
 <!-- specify how you will determine when to stop data collection -->
