@@ -48,7 +48,7 @@ Here is exactly what participants will see and do, in the order they see and do 
 
 Here are the key variables we will manipulate. 
 
-###   Measured variables
+####   Measured variables
 
 Here are the key variables we will measure.
 
